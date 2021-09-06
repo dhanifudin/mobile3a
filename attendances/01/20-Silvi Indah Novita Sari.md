@@ -1,4 +1,4 @@
-Popularitas smartphone di dunia pada 2020 mencapai 1.4 billion. Android sendiri merupakan salah satu operating system yang popular dengan user sebanyak 39.64% dari semua pengguna sebanyak 72.85% perangkat yang terdaftar. Saat ini aplikasi android telah mencapai sebanyak 3million di tahun 2021 dan telah popular perkembangannya dikalangan Industri IT baik di sekolah, kampus, maupun perusahaan formal.
+Popularitas smartphone pada 2020 mencapai 1.4 billion. Android sendiri merupakan salah satu operating system yang popular dengan user sebanyak 39.64% dari semua pengguna sebanyak 72.85% perangkat yang terdaftar. Saat ini aplikasi android telah mencapai sebanyak 3million di tahun 2021 dan telah popular perkembangannya dikalangan Industri IT baik di sekolah, kampus, maupun perusahaan formal.
 Hal hal yang dipelajari dalam pemrograman android :
 1.	Komponen komponen yang membangun aplikasi android
 Representasi tampilan aplikasi, komponen penunjang yang dikirim dan diterima dari aplikasi ke aplikasi lain, latarbelakang proses yang digunakan selama proses pengembangan, isi dari aplikasi yang dikembangkan terdiri dari apasaja
