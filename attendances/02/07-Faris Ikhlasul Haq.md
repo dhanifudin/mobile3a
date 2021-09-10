@@ -1,0 +1,4 @@
+FARIS IKHLASUL HAQ
+1941720062 / TI-3A / 07
+
+Untuk Rangkuman tadi yang telah saya dapat dipemograman mobile adalah tentang Activity, Intent dan Sedikit mengenai fragment. dan mempelajari bagaiman menggunakan Constraint Layout , setelah itu menambahkan button dengan mengatur menggunakan match parent dan wrap content. apabila match parent akan menyesuaikan dari layout device sedangkan untuk wrap content maka akan menyesuakain dari ukuran asli content yang telah diatur sebelumnya dan dapat membesar maupun mengecil. Lalu dilanjut dengan intent dan perpindahan apabila menekan button dapat berpindah ke activity lain.
