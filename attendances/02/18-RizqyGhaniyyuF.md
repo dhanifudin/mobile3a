@@ -1,0 +1,4 @@
+Pertemuan kedua ini membahas tentang penggunaan layout dari android studio yang dapat di buat dari constraint layout dan dapat diatur sesuai yang dibutuhkan. 
+Pada layout tersebut bisa mengatur ukuran dengan garis batas yang terdapat dari fitur android studio tersebut dan biasanya masih ada lagi fitur untuk mengatur layout.
+Setelah mengatur layout dari layar andorid mengatur logic yang ada dalam aplikasi tersebut di dalam main activity dan dalamnya bisa menambahkan activity lain untuk menyesuaikan dari halaman yang dibuat.
+Untuk lebih mudah dalam ngoding di android studio dapat menggunakan IDE yang ada supaya tidak terlalu banyak menulis kode yang panjang panjang.
