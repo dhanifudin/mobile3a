@@ -1,0 +1,27 @@
+Nama      : Daffa Cahyo Alghifari
+NIM       : 1941720104
+No. Absen : 05
+
+Navigasi adalah interaksi yang memungkinkan pengguna melihat-lihat, masuk, dan keluar dari berbagai konten dalam aplikasi. 
+Komponen Navigasi Android Jetpack membantu pengembang menerapkan navigasi, mulai dari klik tombol sederhana hingga pola yang lebih kompleks, 
+seperti bilah aplikasi dan panel samping navigasi.
+
+Komponen Navigasi terdiri dari tiga bagian utama yang dijelaskan di bawah:
+Grafik navigasi: Sumber daya XML yang berisi semua informasi terkait navigasi di satu lokasi terpusat. Ini mencakup semua area konten individual dalam aplikasi, yang disebut tujuan, serta jalur yang mungkin dilalui oleh pengguna pada aplikasi Anda.
+NavHost: Container kosong yang menampilkan tujuan dari grafik navigasi . Komponen Navigasi berisi implementasi NavHost default, NavHostFragment, yang menampilkan tujuan fragmen.
+NavController: Objek yang mengelola navigasi aplikasi dalam sebuah NavHost. NavController mengatur pertukaran konten tujuan di NavHost saat pengguna menggunakan aplikasi.
+
+Komponen Navigasi memberikan sejumlah manfaat lain, termasuk yang berikut:
+Menangani transaksi fragmen.
+Menangani dan Kembali bertindak dengan benar secara default.
+Menyediakan sumber daya terstandarisasi untuk animasi dan transisi.
+Menerapkan dan menangani deep link.
+Termasuk pola Navigasi UI, seperti bilah samping navigasi dan navigasi bawah, dengan pekerjaan tambahan minimal.
+Safe Args - plugin Gradle yang memberikan keamanan jenis saat menavigasi dan mengirimkan data antar tujuan.
+Mendukung ViewModel - para pengambang dapat mengatur ViewModel ke grafik navigasi untuk berbagi data terkait UI antar tujuan grafik.
+
+Selain pembahasan Navigasi, pelajaran minggu ketiga adalah tentang bahasa-bahasa yang sekarang sedang ramai untuk mobile Android, dan yang paling cepat.
+Dalam hal ini Kotlin-lah yang paling cepat, namun ada lagi bahasa baru yaitu Flutter-Dart, bahasa yang bisa digunakan baik di Android dan IoS.
+Melihat dua bahasa tersebut, Java mulai tertinggal dan kalah fungsi, Kotlin yang bahasanya lebih singkat dan lebih cepat tentunya mengalahkan Java dalam sisi pemrograman Android. Flutter-Dart yang fleksibel telah melebihi jangkauan kekuatan pemrograman Java.
+
+Terima kasih!
