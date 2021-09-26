@@ -1,3 +1,5 @@
+Absensi 
+
 Rangkuman Petermuan ke-4
 
 Kelas RecyclerView adalah versi ListView yang lebih canggih dan fleksibel. Widget ini adalah kontainer untuk menampilkan rangkaian data besar yang bisa discroll secara efisien dengan mempertahankan tampilan dalam jumlah terbatas.
