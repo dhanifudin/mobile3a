@@ -1,0 +1,19 @@
+Pada pertemuan ke 4 membahas tentang Widget dan Komponen dalam Navigasi.Widget adalah komponen utama untuk membangun UI di Android , mewarisi dari kelas View .Antarmuka pengguna (UI) untuk aplikasi Android dibangun sebagai hierarki tata letak dan widget. Kita perlu mendefinisikan id dalam XML untuk memanipulasi Widget menggunakan Java atau Kotlin
+
+Navigasi antara layar dan aplikasi yang berbeda adalah bagian inti dari user experience. Komponen Navigasi dirancang untuk menerapkan prinsip-prinsip ini secara default, memastikan bahwa pengguna dapat menerapkan heuristik dan pola yang sama dalam navigasi saat mereka berpindah antar aplikasi.
+
+Views adalah objek yang digunakan untuk menampilkan komponen UI, untuk mengembangkan aplikasi Android. Biasanya pertama kali yang ditampilkan dalam membuat project yaitu TextView. Sebelumnya memang kita sudah menggunakan widget view .Nah contoh dari widget view yaitu :
+
+1. TextView = Digunakan untuk menampilkan text
+2. ImageView = Digunakan untuk menampilkan sebuah gambar
+3. Button = Digunakan untuk fungsi tombol
+4. View = Digunakan untuk pembatas
+5. EditText = Digunakan untuk input text
+6. Spinner = Digunakan untuk menu dropdown
+7. CheckBox = Digunakan untuk menampilkan kotak ceklis
+8. RadioButton = Digunakan untuk menampilkan isi list button
+9. RatingBar = Digunakan untuk menampilkan rating menggunakan bintang
+10. Switch = Digunakan untuk menampilkan switch on/off
+11. Seekbar = Digunakan untuk menampilkan drag bar
+12. SearchView = Digunakan untuk kolom pencarian menggunakan text
+13. ProgressBar = Digunakan untuk loading
